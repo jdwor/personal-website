@@ -33,7 +33,7 @@ Within the scope of this work on equity in scientific research, our group has le
 - [(In)citing action to realize an equitable future](https://www.cell.com/neuron/fulltext/S0896-6273(20)30357-3). *Neuron*, 2020
 - [Racial and ethnic imbalance in neuroscience reference lists and intersections with gender](https://www.biorxiv.org/content/10.1101/2020.10.12.336230v1.abstract). *bioRxiv*, 2021
 - [Gendered citation practices in the field of communication](https://www.tandfonline.com/doi/full/10.1080/23808985.2021.1960180). *Annals of the International Communication Association*, 2021
-- [Citation inequity and gendered citation practices in contemporary physics](https://arxiv.org/abs/2112.09047). *Annals of the International Communication Association*, 2021
+- [Citation inequity and gendered citation practices in contemporary physics](https://arxiv.org/abs/2112.09047). *arXiv*, 2021
 
 ### Related code
 - [CleanBib reference list assessment tool](https://github.com/dalejn/cleanBib). *Python binder*, 2021
