@@ -3,7 +3,7 @@ action_label: Learn more about me &rarr;
 action_link: /about
 action_type: text
 description: 
-  I am an Assistant Professor of Clinical Biostatistics in Columbia University's Mental Health Data Science division, and a Research Scientist at the New York State Psychiatric Institute. My work spans statistics, psychiatry, neurology, and meta-science, all tied together by the goal of finding signal in noisy and complex data.
+I am the metascience program lead at the Federation of American Scientists. My work focuses on growing and strengthening ties between the various metascience communities, with the ultimate goal of improving scientific research, funding, institutions, and incentive structures through experimentation.
 image_left: false
 images:
 - img/PCAfigure.jpg
