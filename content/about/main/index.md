@@ -5,8 +5,7 @@ number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
-intro: |
-I am a biostatistician and metascientist helping to lead the [Federation of American Scientists](https://www.fas.org)' new Impetus Institute. My work focuses on growing and strengthening the metascience community, with the ultimate goal of improving scientific research, funding, institutions, and incentive structures through experimentation.
+intro: | I am a biostatistician and metascientist helping to lead the [Federation of American Scientists](https://www.fas.org)' new Impetus Institute. My work focuses on growing and strengthening the metascience community, with the ultimate goal of improving scientific research, funding, institutions, and incentive structures through experimentation.
 
 Before joining FAS, I was an Assistant Professor of Clinical Biostatistics at Columbia University and a research scientist at the New York State Psychiatric Institute; my academic research touched on statistical methodology, medical imaging, and mental health. Throughout my career, I have aimed to produce cross-cutting and interdisciplinary work, and am always excited to connect about potential collaborations (so feel free to send me a note at jdworkin@fas.org!)
   
