@@ -1,9 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: '{ replace .Name "-" " " | title }'
 subtitle: ""
 excerpt: ""
-date: {{ .Date }}
-date_end: {{ .Date }}
+date: { .Date }
+date_end: { .Date }
 author: ""
 location: "Online"
 draft: true
