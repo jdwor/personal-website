@@ -1,13 +1,12 @@
 ---
-title: '{ replace .Name "-" " " | title }'
+title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 excerpt: ""
-date: "{ .Date }"
+date: {{ .Date }}
 author: ""
 draft: true
-series: null
-tags: null
-categories: null
-layout: single
-
+series:
+tags:
+categories:
+layout: single # single or single-sidebar
 ---
