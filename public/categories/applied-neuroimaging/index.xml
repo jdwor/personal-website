@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applied neuroimaging on Jordan Dworkin</title>
+    <link>https://jordandworkin.com/categories/applied-neuroimaging/</link>
+    <description>Recent content in Applied neuroimaging on Jordan Dworkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jordandworkin.com/categories/applied-neuroimaging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summary metrics of memory subnetwork functional connectivity alterations in multiple sclerosis</title>
+      <link>https://jordandworkin.com/publications/dni-msj/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/dni-msj/</guid>
+      <description>Abstract Memory dysfunction is common in multiple sclerosis (MS); mechanistic understanding of its causes is lacking. Large-scale network resting-state functional connectivity (RSFC) is sensitive to memory dysfunction. Here, we sought to derive and test summary metrics of memory network RSFC. Cognitive data and 3T magnetic resonance imaging (MRI) scans were collected from 235 MS patients and 35 healthy controls (HCs). Index scores were calculated as RSFC within (anteriority index, AntI) and between (integration index, IntI) dorsomedial anterior temporal and medial temporal memory subnetworks.</description>
+    </item>
+    
+    <item>
+      <title>Structural brain measures among children with and without ADHD: A cross-sectional US population-based study</title>
+      <link>https://jordandworkin.com/publications/adhd-brain/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/adhd-brain/</guid>
+      <description>Abstract Structural neuroimaging research has identified a variety of abnormalities in cortical and subcortical structures in children with ADHD. However, studies to date have not employed large, non-referred samples, complete with data on potential confounding variables. Here, we tested for differences in structural MRI measures among children with and without ADHD using data from the Adolescent Brain and Cognitive Development (ABCD) Study, the largest paediatric brain imaging study in the USA.</description>
+    </item>
+    
+    <item>
+      <title>Association of regional white matter hyperintensities with longitudinal Alzheimer-like pattern of neurodegeneration in older adults</title>
+      <link>https://jordandworkin.com/publications/alz-wmh/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/alz-wmh/</guid>
+      <description>Abstract Small vessel cerebrovascular disease, visualized as white matter hyperintensities (WMH), is associated with cognitive decline and risk of clinical Alzheimer disease (AD). One way in which small vessel cerebrovascular disease could contribute to AD is through the promotion of neurodegeneration; the effect of small vessel cerebrovascular disease on neurodegeneration may differ across racial and ethnic groups. To examine whether WMH volume is associated with cortical thinning over time and subsequent memory functioning and whether the association between WMH volume and cortical thinning differs among racial and ethnic groups.</description>
+    </item>
+    
+    <item>
+      <title>Timing-specific associations between income-to-needs ratio and hippocampal and amygdala volumes in middle childhood</title>
+      <link>https://jordandworkin.com/publications/brain-inr/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/brain-inr/</guid>
+      <description>Abstract It is well known that financial disadvantage is associated with alterations in brain development in regions critical to socioemotional well-being such as the hippocampus and the amygdala. Yet little is known about whether family income at different points in development is differentially associated with these structures. Furthermore, little is known about which environmental factors statistically mediate associations between income and subcortical structure. Using a longitudinal birth cohort and linear mixed-effects models, we identified associations between income-to-needs ratio (INR) at 6 timepoints throughout childhood and hippocampal and amygdala volumes at age 7–9 years (n = 41; 236 INR measurements; 41 brain measurements).</description>
+    </item>
+    
+  </channel>
+</rss>

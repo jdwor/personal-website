@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mental health on Jordan Dworkin</title>
+    <link>https://jordandworkin.com/categories/mental-health/</link>
+    <description>Recent content in Mental health on Jordan Dworkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jordandworkin.com/categories/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding the impact of the COVID-19 pandemic on the mental health of transgender and gender nonbinary individuals</title>
+      <link>https://jordandworkin.com/publications/lgbt-covid/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/lgbt-covid/</guid>
+      <description>Abstract While the COVID-19 pandemic in the United States disproportionately impacts marginalized communities, no empiric US-based research has focused specifically on transgender and gender nonbinary (TGNB) people. We examined the pandemic’s impact on an established longitudinal cohort of TGNB individuals (N = 208) by administering an online survey between March-June 2020. We used multivariable linear regression to examine reduced LGBTQ/TGNB community support and disruptions in gender-affirming health care as predictors of psychological distress during the pandemic.</description>
+    </item>
+    
+    <item>
+      <title>Capturing naturally occurring emotional suppression as it unfolds in couple interactions</title>
+      <link>https://jordandworkin.com/publications/emo-sup/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/emo-sup/</guid>
+      <description>Abstract Most research examining the consequences of suppressing emotional expression has focused on either experimentally manipulated and conscious suppression, or self-reported suppression behavior. This study examined suppression as it naturally occurred in couple (n = 105) discussions regarding a challenging topic. A Suppression Index (SI) was created by calculating the difference between continuous self-reports of emotional experience, obtained using cued video recall, and coders’ continuous ratings of expressed emotion. Suppression was common for both men and women, though there was also substantial individual variation.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellaneous on Jordan Dworkin</title>
+    <link>https://jordandworkin.com/categories/miscellaneous/</link>
+    <description>Recent content in Miscellaneous on Jordan Dworkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jordandworkin.com/categories/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network-driven differences in mobility and optimal transitions among automatable jobs</title>
+      <link>https://jordandworkin.com/publications/job-network/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/job-network/</guid>
+      <description>Abstract The potential for widespread job automation has become an important topic of discussion in recent years, and it is thought that many American workers may need to learn new skills or transition to new jobs to maintain stable positions in the workforce. Because workers’ existing skills may make such transitions more or less difficult, the likelihood of a given job being automated only tells part of the story. As such, this study uses network science and statistics to investigate the links between jobs that arise from their necessary skills, knowledge and abilities.</description>
+    </item>
+    
+  </channel>
+</rss>

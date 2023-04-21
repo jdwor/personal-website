@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public health on Jordan Dworkin</title>
+    <link>https://jordandworkin.com/categories/public-health/</link>
+    <description>Recent content in Public health on Jordan Dworkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jordandworkin.com/categories/public-health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Noise complaint patterns in New York City: Socioeconomic disparities and COVID-19 exacerbations</title>
+      <link>https://jordandworkin.com/publications/noise-covid/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/noise-covid/</guid>
+      <description>Abstract Excessive environmental noise exposure and noise annoyance have been linked to adverse physical and mental health outcomes. Although socioeconomic disparities in acoustically measured and geospatially estimated noise have been established, less is known about disparities in noise complaints, one of the most common sources of distress reported to local municipalities. Furthermore, although some studies have posited urban quieting during the COVID-19 pandemic, little empirical work has probed this and probed noise complaints during the pandemic.</description>
+    </item>
+    
+  </channel>
+</rss>

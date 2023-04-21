@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta-science on Jordan Dworkin</title>
+    <link>https://jordandworkin.com/categories/meta-science/</link>
+    <description>Recent content in Meta-science on Jordan Dworkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jordandworkin.com/categories/meta-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Citation inequity and gendered citation practices in contemporary physics</title>
+      <link>https://jordandworkin.com/publications/phys-gender/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/phys-gender/</guid>
+      <description>Abstract Similarly to many scientific disciplines, neuroscience has increasingly attempted to confront pervasive gender imbalances. Although publishing and conference participation are often highlighted, recent research has called attention to the prevalence of gender imbalance in citations. Because of the downstream effects of citations on visibility and career advancement, understanding the role of gender in citation practices is vital for addressing scientific inequity. Here, we investigate whether gendered patterns are present in neuroscience citations.</description>
+    </item>
+    
+    <item>
+      <title>Racial and ethnic imbalance in neuroscience reference lists and intersections with gender</title>
+      <link>https://jordandworkin.com/publications/neuro-race/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/neuro-race/</guid>
+      <description>Abstract Discrimination against racial and ethnic minority groups exists in the academy, and the associated biases impact hiring and promotion, publication rates, grant funding, and awards. Precisely how racial and ethnic bias impacts the manner in which the scientific community engages with the ideas of academics in minority groups has yet to be fully elucidated. Citations are a marker of such community engagement, as well as a currency used to attain career milestones.</description>
+    </item>
+    
+    <item>
+      <title>The extent and drivers of gender imbalance in neuroscience reference lists</title>
+      <link>https://jordandworkin.com/publications/neuro-gender/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/neuro-gender/</guid>
+      <description>Abstract Similarly to many scientific disciplines, neuroscience has increasingly attempted to confront pervasive gender imbalances. Although publishing and conference participation are often highlighted, recent research has called attention to the prevalence of gender imbalance in citations. Because of the downstream effects of citations on visibility and career advancement, understanding the role of gender in citation practices is vital for addressing scientific inequity. Here, we investigate whether gendered patterns are present in neuroscience citations.</description>
+    </item>
+    
+    <item>
+      <title>The emergent integrated network structure of scientific research</title>
+      <link>https://jordandworkin.com/publications/pnas-net/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/pnas-net/</guid>
+      <description>Abstract Scientific research is often thought of as being conducted by individuals and small teams striving for disciplinary advances. Yet as a whole, this endeavor more closely resembles a complex and integrated system of people, papers, and ideas. Studies of co-authorship and citation networks have revealed important structural properties of researchers and articles, but currently the structure of scientific ideas themselves is not well understood. In this study, we posit that topic networks may be a useful framework for revealing the nature of conceptual relationships.</description>
+    </item>
+    
+    <item>
+      <title>The landscape of neuroimaging research</title>
+      <link>https://jordandworkin.com/publications/nim-net/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/nim-net/</guid>
+      <description>Abstract As the field of neuroimaging grows, it can be difficult for scientists within the field to gain and maintain a detailed understanding of its ever-changing landscape. While collaboration and citation networks highlight important contributions within the field, the roles of and relations among specific areas of study can remain quite opaque. Here, we apply techniques from network science to map the landscape of neuroimaging research documented in the journal NeuroImage over the past decade.</description>
+    </item>
+    
+  </channel>
+</rss>
