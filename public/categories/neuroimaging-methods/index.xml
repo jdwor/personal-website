@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuroimaging methods on Jordan Dworkin</title>
+    <link>https://jordandworkin.com/categories/neuroimaging-methods/</link>
+    <description>Recent content in Neuroimaging methods on Jordan Dworkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jordandworkin.com/categories/neuroimaging-methods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summary metrics of memory subnetwork functional connectivity alterations in multiple sclerosis</title>
+      <link>https://jordandworkin.com/publications/dni-msj/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/dni-msj/</guid>
+      <description>Abstract Memory dysfunction is common in multiple sclerosis (MS); mechanistic understanding of its causes is lacking. Large-scale network resting-state functional connectivity (RSFC) is sensitive to memory dysfunction. Here, we sought to derive and test summary metrics of memory network RSFC. Cognitive data and 3T magnetic resonance imaging (MRI) scans were collected from 235 MS patients and 35 healthy controls (HCs). Index scores were calculated as RSFC within (anteriority index, AntI) and between (integration index, IntI) dorsomedial anterior temporal and medial temporal memory subnetworks.</description>
+    </item>
+    
+    <item>
+      <title>A local group differences test for subject-level multivariate density neuroimaging outcomes</title>
+      <link>https://jordandworkin.com/publications/density-test/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/density-test/</guid>
+      <description>Abstract A great deal of neuroimaging research focuses on voxel-wise analysis or segmentation of damaged tissue, yet many diseases are characterized by diffuse or non-regional neuropathology. In simple cases, these processes can be quantified using summary statistics of voxel intensities. However, the manifestation of a disease process in imaging data is often unknown, or appears as a complex and nonlinear relationship between the voxel intensities on various modalities. When the relevant pattern is unknown, summary statistics are often unable to capture differences between disease groups, and their use may encourage post hoc searches for the optimal summary measure.</description>
+    </item>
+    
+    <item>
+      <title>Automated integration of multimodal MRI for the probabilistic detection of the central vein sign in MS lesions</title>
+      <link>https://jordandworkin.com/publications/ajnr-cvs/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/ajnr-cvs/</guid>
+      <description>Abstract The central vein sign is a promising MR imaging diagnostic biomarker for multiple sclerosis. Recent studies have demonstrated that patients with MS have higher proportions of white matter lesions with the central vein sign compared with those with diseases that mimic MS on MR imaging. However, the clinical application of the central vein sign as a biomarker is limited by interrater differences in the adjudication of the central vein sign as well as the time burden required for the determination of the central vein sign for each lesion in a patient&amp;rsquo;s full MR imaging scan.</description>
+    </item>
+    
+    <item>
+      <title>An automated statistical technique for counting distinct multiple sclerosis lesions</title>
+      <link>https://jordandworkin.com/publications/ajnr-count/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/ajnr-count/</guid>
+      <description>Abstract Lesion load is a common biomarker in multiple sclerosis, yet it has historically shown modest association with clinical outcome. Lesion count, which encapsulates the natural history of lesion formation and is thought to provide complementary information, is difficult to assess in patients with confluent (ie, spatially overlapping) lesions. We introduce a statistical technique for cross-sectionally counting pathologically distinct lesions. MR imaging was used to assess the probability of a lesion at each location.</description>
+    </item>
+    
+    <item>
+      <title>Predicting recovery though estimation and visualization of active and incident lesions</title>
+      <link>https://jordandworkin.com/publications/les-pred/</link>
+      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordandworkin.com/publications/les-pred/</guid>
+      <description>Abstract The goal of this study was to develop a model that integrates imaging and clinical information observed at lesion incidence for predicting the recovery of white matter lesions in multiple sclerosis (MS) patients. Demographic, clinical, and magnetic resonance imaging (MRI) data were obtained from 60 subjects with MS as part of a natural history study at the National Institute of Neurological Disorders and Stroke. A total of 401 lesions met the inclusion criteria and were used in the study.</description>
+    </item>
+    
+  </channel>
+</rss>
