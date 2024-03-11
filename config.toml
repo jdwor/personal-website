@@ -88,7 +88,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "Dworkin_CV_2022.pdf"
+      url       = "Dworkin_Resume.pdf"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
