@@ -2,7 +2,7 @@
 date: "2019-02-25T13:38:41-06:00"
 description: Don't hesitate to drop me a line if you'd like more information about any of the projects listed here, if you'd like to strike up a collaboration, if you're curious about what's up next, or if you just want to say hi!
 draft: false
-formspree_form_id: jordandworkin@gmail.com
+formspree_form_id: f/xgedlppn
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true
@@ -10,7 +10,7 @@ show_social_links: true
 submit_button_label: Send Message
 title: Contact
 type: form
-url: https://formspree.io/f/xgedlppn
+url: contact
 ---
 
 ** Contact page don't contain a body, just the front matter above.
