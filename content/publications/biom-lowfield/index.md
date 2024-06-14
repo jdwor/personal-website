@@ -5,7 +5,7 @@ categories:
 date: "2022-06-22"
 slug: biom-lowfield
 draft: false
-excerpt: <span style="font-size:.9em">{*Biometrics*, 2023}</span>
+excerpt: <span style="font-size:.9em">{*Biometrics*, 2022}</span>
 layout: single
 links:
 - icon: doi
