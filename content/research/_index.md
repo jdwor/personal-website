@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: An overview of the areas that I am currently working/collaborating on
+description: An overview of the areas that I have worked/collaborated on
 layout: list-grid
 text_align_left: false
 show_author_byline: true
