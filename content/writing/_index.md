@@ -9,9 +9,8 @@ cascade:
     text_link_label: View writing
     text_link_url: /writing/
 description: Non-academic writing, reports, and op-eds across topic areas
-layout: list-grid
+layout: list
 text_align_left: false
-thumbnail_left: false
 show_author_byline: true
 show_button_links: true
 show_post_date: false
