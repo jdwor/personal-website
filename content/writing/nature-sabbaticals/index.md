@@ -8,4 +8,5 @@ layout: single
 tags:
 - hugo-site
 title: "How to boost your research: take a sabbatical in policy"
+externalLink: "https://www.nature.com/articles/d41586-024-00479-w"
 ---

@@ -11,7 +11,9 @@
         <ul>
         {{ range $section.Pages }}
           {{ $active := eq .RelPermalink $page.RelPermalink }}
-          <li class="{{ if $active }}active{{ end }}" hugo-nav="{{ .RelPermalink }}"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          <li class="{{ if $active }}active{{ end }}" hugo-nav="{{ .RelPermalink }}">
+  <a href="{{ with .Params.externalLink }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}">{{ .LinkTitle }}</a>
+</li>
         {{ end }}
         </ul>
       </nav>
