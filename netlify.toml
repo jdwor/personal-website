@@ -16,14 +16,3 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 [context.production.environment]
 HUGO_ENV = 'production'
 
-[[redirects]]
-  from = "/writing/stat-evidence/"
-  to = "https://www.statnews.com/2023/03/27/strengthen-science-by-funding-living-evidence-synthesis/"
-  status = 200
-  force = true
-  
-[[redirects]]
-  from = "/writing/nature-policy/"
-  to = "https://www.nature.com/articles/d41586-023-02602-9/"
-  status = 200
-  force = true
