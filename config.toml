@@ -125,19 +125,19 @@ enableEmoji = true
     url = "/research/"
     weight = 2
   [[menu.header]]
+    name = "Writing"
+    title = "Writing"
+    url = "/writing/"
+    weight = 3
+  [[menu.header]]
     name = "Publications"
     title = "Scientific Publications"
     url = "/publications/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/projects/"
-    weight = 4
-  [[menu.header]]
-    name = "Contact"
-    title = "Contact"
-    url = "/contact/"
     weight = 5
     
   # Configure footer  
@@ -148,8 +148,8 @@ enableEmoji = true
     weight = 1
   [[menu.footer]]
     name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
+    title = "Contact"
+    url = "mailto:jdworkin@fas.org"
     weight = 2
   [[menu.footer]]
     name = "Contributors"
