@@ -1,5 +1,4 @@
 ---
-author: Jordan Dworkin
 date: "2024-02-14"
 slug: fas-academicprimer
 draft: false
