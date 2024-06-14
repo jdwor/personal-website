@@ -8,4 +8,5 @@ layout: single
 tags:
 - hugo-site
 title: "Strengthen science by funding living evidence synthesis"
+externalLink: "https://www.statnews.com/2023/03/27/strengthen-science-by-funding-living-evidence-synthesis/"
 ---

@@ -8,4 +8,5 @@ layout: single
 tags:
 - hugo-site
 title: "Want to speed up scientific progress? First understand how science policy works"
+externalLink: "https://www.nature.com/articles/d41586-023-02602-9"
 ---
