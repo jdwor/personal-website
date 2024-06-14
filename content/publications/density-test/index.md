@@ -5,7 +5,7 @@ categories:
 date: "2019-12-26"
 slug: density-test
 draft: false
-excerpt: A method to test for group differences in voxel intensity profiles using multivariate densities. Reveals thalamic differences across MS subtypes.<br><span style="font-size:.9em">{*Biostatistics*, 2019}</span>
+excerpt: <span style="font-size:.9em">{*Biostatistics*, 2019}</span>
 layout: single
 links:
 - icon: doi

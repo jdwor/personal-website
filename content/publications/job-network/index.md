@@ -5,7 +5,7 @@ categories:
 date: "2019-07-03"
 slug: job-network
 draft: false
-excerpt: An investigation into how similarities and differences between occupations change the burden of automation across the job network.<br><span style="font-size:.9em">{*Royal Society Open Science*, 2019}</span>
+excerpt: <span style="font-size:.9em">{*Royal Society Open Science*, 2019}</span>
 layout: single
 links:
 - icon: doi

@@ -2,12 +2,16 @@
 author: Erin G. Teich, Jason Z. Kim, Christopher W. Lynn, Samantha C. Simon, Andrei A. Klishin, Karol P. Szymula, Pragya Srivastava, Lee C. Bassett, Perry Zurn, Jordan D. Dworkin & Dani S. Bassett
 categories:
   - Meta-science
-date: "2021-12-16"
+date: "2022-10-06"
 slug: phys-gender
 draft: false
-excerpt: <span style="font-size:.9em">{*arXiv*, 2021}</span>
+excerpt: <span style="font-size:.9em">{*Nature Physics*, 2022}</span>
 layout: single
 links:
+- icon: doi
+  icon_pack: ai
+  name: paper
+  url: https://www.nature.com/articles/s41567-022-01770-1
 - icon: door-open
   icon_pack: fas
   name: preprint
@@ -23,4 +27,4 @@ title: Citation inequity and gendered citation practices in contemporary physics
 
 ## Abstract
 
-Similarly to many scientific disciplines, neuroscience has increasingly attempted to confront pervasive gender imbalances. Although publishing and conference participation are often highlighted, recent research has called attention to the prevalence of gender imbalance in citations. Because of the downstream effects of citations on visibility and career advancement, understanding the role of gender in citation practices is vital for addressing scientific inequity. Here, we investigate whether gendered patterns are present in neuroscience citations. Using data from five top neuroscience journals, we find that reference lists tend to include more papers with men as first and last author than would be expected if gender were unrelated to referencing. Importantly, we show that this imbalance is driven largely by the citation practices of men and is increasing over time as the field diversifies. We assess and discuss possible mechanisms and consider how researchers might approach these issues in their own work.
+The under-attribution of women’s contributions to scientific scholarship is well known and well studied. One measure of this under-attribution is the citation gap between men and women: the under-citation of papers authored by women relative to expected rates coupled with an over-citation of papers authored by men relative to expected rates. Here we explore this citation gap in contemporary physics. We find a global bias wherein papers authored by women are significantly under-cited, and papers authored by men are significantly over-cited. Moreover, we find that citation behaviour varies along several dimensions, such that imbalances differ according to who is citing, where they are citing and what they are citing. Specifically, citation imbalance in favour of man-authored papers is highest for papers authored by men, papers published in general physics journals and papers for which citing authors probably have less domain or author familiarity. Our results suggest that although deciding which papers to cite is an individual choice, the cumulative effects of these choices needlessly harm a subset of scholars. We discuss several strategies for the mitigation of these effects, including conscious behavioural changes at the individual, journal and community levels.

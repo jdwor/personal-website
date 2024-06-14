@@ -1,11 +1,11 @@
 ---
-author: Jordan D. Dworkin, Kristin A. Linn, Erin G. Teich, Perry Zurn, Russell T. Shinohara & Danielle S. Bassett
+author: Jordan D. Dworkin, Kristin A. Linn, Erin G. Teich, Perry Zurn, Russell T. Shinohara & Dani S. Bassett
 categories:
   - Meta-science
 date: "2020-06-19"
 slug: neuro-gender
 draft: false
-excerpt: A study of gendered citation practices within top neuroscience journals. Shows overall undercitation of women-led work, particularly by men-led teams.<br><span style="font-size:.9em">{*Nature Neuroscience*, 2020}</span>
+excerpt: <span style="font-size:.9em">{*Nature Neuroscience*, 2020}</span>
 layout: single
 links:
 - icon: doi
