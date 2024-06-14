@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "img/exnet3.png"
   logo = "img/exnet3.png"
-  mainSections = ["research", "publications", "projects"]
+  mainSections = ["research", "writing", "publications", "projects"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -86,6 +86,10 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
+      icon      = "envelope" # icon name without the 'fa-'
+      icon_pack = "far"
+      url       = "mailto:jdworkin@fas.org"
+  [[params.social]]
       icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "Dworkin_CV.pdf"
@@ -93,10 +97,6 @@ enableEmoji = true
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://scholar.google.com/citations?hl=en&user=pr_dfX4AAAAJ"
-  [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/jdwor"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
