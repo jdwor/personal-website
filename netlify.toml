@@ -17,7 +17,7 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 HUGO_ENV = 'production'
 
 [[redirects]]
-  from = "/projects/giraffes/"
-  to = "https://google.com"
+  from = "/writing/stat-evidence/*"
+  to = "https://www.statnews.com/2023/03/27/strengthen-science-by-funding-living-evidence-synthesis/"
   status = 200
   force = true
