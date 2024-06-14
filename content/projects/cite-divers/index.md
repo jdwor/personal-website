@@ -15,7 +15,7 @@ links:
   icon_pack: fab
   name: Python binder
   url: https://github.com/dalejn/cleanBib
-title: Citational justice advocacy and software
+title: Citation tools and initiatives
 ---
 
 ## Description
