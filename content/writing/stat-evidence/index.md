@@ -1,9 +1,8 @@
 ---
-author: Jordan Dworkin & Julian Elliott
 date: "2023-03-27"
 slug: stat-evidence
 draft: false
-excerpt: <span style="font-size:.9em">*STAT First Opinion*, 2023</span>
+excerpt: <span style="font-size:.9em">*STAT First Opinion*, 2023 — with Julian Elliott</span>
 layout: single
 tags:
 - hugo-site

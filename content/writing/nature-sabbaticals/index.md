@@ -1,5 +1,4 @@
 ---
-author: Jordan Dworkin
 date: "2024-02-21"
 slug: nature-sabbaticals
 draft: false

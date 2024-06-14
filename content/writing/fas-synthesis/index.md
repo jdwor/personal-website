@@ -1,5 +1,4 @@
 ---
-author: Jordan Dworkin
 date: "2023-09-27"
 slug: fas-synthesis
 draft: false

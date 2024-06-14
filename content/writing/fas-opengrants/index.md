@@ -1,5 +1,4 @@
 ---
-author: Jordan Dworkin
 date: "2024-02-06"
 slug: fas-opengrants
 draft: false

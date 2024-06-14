@@ -1,5 +1,4 @@
 ---
-author: Jordan Dworkin
 date: "2023-09-23"
 slug: stat-ai
 draft: false

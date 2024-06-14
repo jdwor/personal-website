@@ -1,9 +1,8 @@
 ---
-author: Alice Wu & Jordan Dworkin
 date: "2023-11-20"
 slug: fas-forecasting
 draft: false
-excerpt: <span style="font-size:.9em">*FAS Report*, 2023</span>
+excerpt: <span style="font-size:.9em">*FAS Report*, 2023 — with Alice Wu</span>
 layout: single
 tags:
 - hugo-site
