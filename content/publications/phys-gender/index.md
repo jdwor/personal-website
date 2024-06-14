@@ -23,6 +23,7 @@ links:
 tags:
 - hugo-site
 title: Citation inequity and gendered citation practices in contemporary physics
+featured: true
 ---
 
 ## Abstract

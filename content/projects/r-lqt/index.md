@@ -12,6 +12,7 @@ links:
   name: R package
   url: https://github.com/jdwor/LQT
 title: Lesion quantification toolkit
+featured: true
 ---
 
 ## Description

@@ -8,4 +8,5 @@ tags:
 - hugo-site
 title: "Open scientific grant proposals to advance innovation, collaboration, and evidence-based policy"
 externalLink: "https://fas.org/publication/open-proposals/"
+featured: true
 ---
