@@ -92,7 +92,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "far"
-      url       = "mailto:jdworkin@fas.org"
+      url       = "mailto:jordan.dworkin@openphilanthropy.org"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
