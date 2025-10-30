@@ -1,7 +1,6 @@
 ---
 author: Jordan D. Dworkin, Kristin A. Linn, Erin G. Teich, Perry Zurn, Russell T. Shinohara & Dani S. Bassett
 categories:
-  - Meta-science
 date: "2020-06-19"
 slug: neuro-gender
 draft: false

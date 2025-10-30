@@ -1,7 +1,6 @@
 ---
 author: Jordan D. Dworkin
 categories:
-  - Miscellaneous
 date: "2019-07-03"
 slug: job-network
 draft: false

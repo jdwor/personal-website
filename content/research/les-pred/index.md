@@ -1,7 +1,6 @@
 ---
 author: Jordan D. Dworkin, Elizabeth M. Sweeney, Matthew K. Schindler, Salim Chahin, Daniel S. Reich & Russell T. Shinohara
 categories:
-  - Neuroimaging methods
 date: "2016-08-02"
 slug: les-pred
 draft: false

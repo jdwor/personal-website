@@ -1,7 +1,6 @@
 ---
 author: Fengling Hu, Zheng Ren, Luyun Chen, Alessandra M. Valcarcel, Jordan Dworkin, Brian Renner, Lynn Daboul, Carly M. O’Donnell, Elizabeth D. Verter, Abigail R. Manning, Kelly A. Clark, Eunchan Bae, Christina Chen, Carolyn Lou, Theodore D. Satterthwaite, Haochang Shou, Michel Bilello, Kunio Nakamura, Amit Bar-Or, Peter A. Calabresi, Leorah Freeman, Roland G. Henry, Erin E. Longbrake, Jiwon Oh, Matthew K. Schindler, Martina Absinta, Andrew J. Solomon, Nancy L. Sicotte, Daniel Ontaneda, Daniel S. Reich, Pascal Sati, & Russell T. Shinohara
 categories:
-  - Neuroimaging methods
 date: "2025-10-10"
 slug: feng-cvs
 draft: false

@@ -1,7 +1,6 @@
 ---
 author: Batool Rizvi, Patrick J. Lao, Anthony G. Chesebro, Jordan D. Dworkin, Erica Amarante, Juliet M. Beato, Jose Gutierrez, Laura B. Zahodne, Nicole Schupf, Jennifer J. Manly, Richard Mayeux & Adam M. Brickman
 categories:
-  - Applied neuroimaging
 date: "2021-10-05"
 slug: alz-wmh
 draft: false

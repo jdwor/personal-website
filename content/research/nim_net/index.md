@@ -1,7 +1,6 @@
 ---
 author: Jordan D. Dworkin, Russell T. Shinohara & Dani S. Bassett
 categories:
-  - Meta-science
 date: "2018-09-06"
 slug: nim-net
 draft: false

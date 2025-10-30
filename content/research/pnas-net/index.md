@@ -1,7 +1,6 @@
 ---
 author: Jordan D. Dworkin, Russell T. Shinohara & Dani S. Bassett
 categories:
-  - Meta-science
 date: "2019-04-30"
 slug: pnas-net
 draft: false

@@ -1,7 +1,6 @@
 ---
 author: Jordan D. Dworkin, Virginia Zimmerman, Robert J. Waldinger & Marc S. Schulz
 categories:
-  - Mental health
 date: "2018-10-26"
 slug: emo-sup
 draft: false

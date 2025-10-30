@@ -1,7 +1,6 @@
 ---
 author: Danni Tu, Manu S. Goyal, Jordan D. Dworkin, Samuel Kampondeni, Lorenna Vidal, Eric Biondo-Savin, Sandeep Juvvadi, Prashant Raghavan, Jennifer Nicholas, Karen Chetcuti, Kelly Clark, Timothy Robert-Fitzgerald, Theodore D. Satterthwaite, Paul Yushkevich, Christos Davatzikos, Guray Erus, Nicholas J. Tustison, Douglas G. Postels, Terrie E. Taylor, Dylan S. Small, & Russell T. Shinohara
 categories:
-  - Neuroimaging methods
 date: "2023-09-01"
 slug: biom-lowfield
 draft: false

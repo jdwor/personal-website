@@ -1,7 +1,6 @@
 ---
 author: Jordan D. Dworkin, Kristin A. Linn, Andrew J. Solomon, Theodore D. Satterthwaite, Armin Raznahan, Rohit Bakshi & Russell T. Shinohara
 categories:
-  - Neuroimaging methods
 date: "2019-12-26"
 slug: density-test
 draft: false

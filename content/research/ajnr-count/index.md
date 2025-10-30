@@ -1,7 +1,6 @@
 ---
 author: Jordan D. Dworkin, Kristin A. Linn, Ipek Oguz, Greg M. Fleishman, Rohit Bakshi, Govind Nair, Peter A. Calabresi, Roland G. Henry, Jiwon Oh, Nico Papinutto, Daniel Pelletier, William Rooney, William Stern, Nancy L. Sicotte, Daniel S. Reich & Russell T. Shinohara
 categories:
-  - Neuroimaging methods
 date: "2018-04-10"
 slug: ajnr-count
 draft: false

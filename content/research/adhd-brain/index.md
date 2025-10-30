@@ -1,7 +1,6 @@
 ---
 author: Joel Bernanke, Alex Luna, Le Chang, Elizabeth Bruno, Jordan D. Dworkin & Jonathan Posner
 categories:
-  - Applied neuroimaging
 date: "2022-02-07"
 slug: adhd-brain
 draft: false

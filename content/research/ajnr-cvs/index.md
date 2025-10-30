@@ -1,7 +1,6 @@
 ---
 author: Jordan D. Dworkin, Pascal Sati, Andrew Solomon, Dzung L. Pham, Richard Watts, Melissa L. Martin, Daniel Ontaneda, Matthew K. Schindler, Daniel S. Reich & Russell T. Shinohara
 categories:
-  - Neuroimaging methods
 date: "2018-10-08"
 slug: ajnr-cvs
 draft: false

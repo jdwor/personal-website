@@ -1,7 +1,6 @@
 ---
 author: Jason Roy, Kirsten J. Lum, Bret Zeldow, Jordan D. Dworkin, Vincent Lo Re, III & Michael J. Daniels
 categories:
-  - Statistical methods
 date: "2018-03-26"
 slug: bnp-caus
 draft: false
