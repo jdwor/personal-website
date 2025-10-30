@@ -115,25 +115,15 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Research Areas"
-    title = "Research Areas"
-    url = "/research/"
-    weight = 2
-  [[menu.header]]
     name = "Writing"
     title = "Writing"
     url = "/writing/"
+    weight = 2
+  [[menu.header]]
+    name = "Research"
+    title = "Research"
+    url = "/research/"
     weight = 3
-  [[menu.header]]
-    name = "Publications"
-    title = "Scientific Publications"
-    url = "/publications/"
-    weight = 4
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/projects/"
-    weight = 5
     
   # Configure footer
   # Footer menu removed - using simple copyright instead
