@@ -3,7 +3,7 @@ action_label: Learn more about me &rarr;
 action_link: /about
 action_type: text
 description: 
-  I am an Innovation Policy Program Associate at Open Philanthropy, where I work to identify and support efforts to safely accelerate scientific progress and innovation. I am motivated by the broader goals of improving scientific research, funding, institutions, and incentive structures through creativity and experimentation.
+  I am a senior program associate in the Abundance and Growth Fund at Open Philanthropy, where I lead our grantmaking on Innovation Policy. In this role, and in general, I work to identify and support efforts to accelerate scientific progress and innovation, and am motivated by the broader goals of improving scientific research, funding, institutions, and incentive structures through experimentation.
 image_left: false
 images:
 - img/PCAfigure.jpg
