@@ -3,7 +3,7 @@ author: Fengling Hu, Zheng Ren, Luyun Chen, Alessandra M. Valcarcel, Jordan Dwor
 categories:
   - Neuroimaging methods
 date: "2025-10-10"
-slug: biom-lowfield
+slug: feng-cvs
 draft: false
 excerpt: <span style="font-size:.9em">{*Imaging Neuroscience*, 2025}</span>
 layout: single
