@@ -86,10 +86,6 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-      icon      = "cv" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "Dworkin_CV.pdf"
-  [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "far"
       url       = "mailto:jordan.dworkin@openphilanthropy.org"
@@ -140,22 +136,8 @@ enableEmoji = true
     url = "/projects/"
     weight = 5
     
-  # Configure footer  
-  [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact"
-    url = "mailto:jdworkin@fas.org"
-    weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
+  # Configure footer
+  # Footer menu removed - using simple copyright instead
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
