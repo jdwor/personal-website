@@ -1,9 +1,9 @@
 ---
 ## Configure page content in wide column
-title: A bit about me # leave blank to exclude
+title: # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: true # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
   I am an [Innovation Policy](https://www.openphilanthropy.org/focus/innovation-policy/) Program Associate at [Open Philanthropy](https://www.openphilanthropy.org/), where I work to identify and support efforts to safely accelerate scientific progress and innovation. I am motivated by the broader goals of improving scientific research, funding, institutions, and incentive structures through creativity and experimentation, and I am always excited to connect with others who share those goals (feel free to reach out at jordan.dworkin@openphilanthropy.org!).
