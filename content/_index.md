@@ -3,7 +3,7 @@ action_label: Learn more about me &rarr;
 action_link: /about
 action_type: text
 description: 
-  I am a senior program associate in the Abundance and Growth Fund at Open Philanthropy, where I lead our grantmaking on Innovation Policy. In this role, and in general, I work to identify and support efforts to accelerate scientific progress through experimentation with the institutions, incentives, and processes of science. If you share those goals (or if you don't), I'd love to connect.
+  I am an associate program officer in the Abundance and Growth Fund at [Coefficient Giving](https://coefficientgiving.org/), where I lead our grantmaking on Innovation Policy. In this role, and in general, I work to identify and support efforts to accelerate scientific progress through experimentation with the institutions, incentives, and processes of science. If you share those goals (or if you don't), I'd love to connect.
 image_left: false
 images:
 - img/PCAfigure.jpg
