@@ -6,13 +6,16 @@
     {{ if .Params.show_author_byline }}<p class="f7 measure lh-copy tc center i">{{ if .Params.author }}Written by {{ .Params.author }}{{ end }}</p>{{ end }}
   </section>
   <section class="blog-content mw7 center">
-    {{ $caller := . }}
-    {{ $paginator := .Paginate (where .RegularPagesRecursive "Type" .Section).ByDate.Reverse }}
-      {{ range $paginator.Pages }}
-        {{ .Scratch.Set "$root" $caller }}
-        {{ partial "shared/summary-writing" . }}
-      {{ end }}
-    {{ partial "shared/list-pagination.html" . }}
+    {{ range .Params.writing }}
+    <article class="mv2 mv3-l bb">
+      <div class="measure-wide center mb2 mb3-l">
+        <header>
+          <h1 class="f3 mt0 mb2 lh-title underline fw4"><a href="{{ .url }}" class="db" target="_blank" rel="noopener noreferrer">{{ .title | markdownify }}</a></h1>
+        </header>
+        {{ with .outlet }}<p class="lh-copy mb2"><span style="font-size:.9em">{{ . | markdownify }}</span></p>{{ end }}
+      </div>
+    </article>
+    {{ end }}
   </section>
 </main>
 {{ end }}
